@@ -1,5 +1,9 @@
 # esphome-DSMR-P1meter
 
-# \# Header 1
+\# Header 1
 
-## \#\# Header 2
+\#\# Used hardware
+
+* Wemos mini D1
+* 
+* 
